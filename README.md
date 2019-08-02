@@ -1,2 +1,3 @@
 # Summer Undergraduate Research Experience
-Projects I worked on during my 2019 summer research program in the Keck Graduate Institute
+
+From July - August 2019, I was at the Keck Graduate Institute for a summer research program in biotechnology and bio-industry. My research focused on the private-public mechanisms which translate research findings from academic institutions to marketable products and whether these meet the needs of the global public sector market. I looked specifically at the state of technological innovation in Tuberculosis diagnostics. As part of the program, I also collaborated with a team to assess the scientific and market viability of new drug for Osteosarcoma, a cancerous tumor in bone. My deepest gratitude to Keck Graduate Institute for curating this wonderful learning experience and my advisor, Dean Steven Casper, for guiding me through this process. 
